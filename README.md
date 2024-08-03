@@ -31,33 +31,44 @@ Languages: JavaScript, Python
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 </p>
-
-<h2 align="center">🏆 Projects</h2>
-
+## 🏆 Projects
 
 <div align="center">
-  <img src="https://i.postimg.cc/htM4Cv65/Screenshot-2024-06-03-at-18-57-17.png" alt="Project 1" />
-  <img src="https://i.postimg.cc/XvgcJfZY/Screenshot-2024-05-31-at-19-29-48.png" alt="Project 2" />
-  <img src="https://i.postimg.cc/T3nNGWft/Screenshot-2024-07-27-at-18-44-32.png" alt="Project 3" />
-  <img src="https://i.postimg.cc/C5Dr1ZbM/Screenshot-2024-05-31-at-19-48-26.png" alt="Project 4" />
-  <img src="https://i.postimg.cc/C5Dr1ZbM/Screenshot-2024-05-31-at-19-48-26.png" alt="Project 5" />
+  <img src="https://i.postimg.cc/htM4Cv65/Screenshot-2024-06-03-at-18-57-17.png" alt="Project 1" width="200" height="150" />
+  <img src="https://i.postimg.cc/XvgcJfZY/Screenshot-2024-05-31-at-19-29-48.png" alt="Project 2" width="200" height="150" />
+  <img src="https://i.postimg.cc/T3nNGWft/Screenshot-2024-07-27-at-18-44-32.png" alt="Project 3" width="200" height="150" />
+  <img src="https://i.postimg.cc/ZYsJ8MBz/Screenshot-2024-06-03-at-19-55-20.png" alt="Project 4" width="200" height="150" />
+  <img src="https://i.postimg.cc/NF597TdY/Screenshot-2024-06-03-at-20-02-24.png" alt="Project 5" width="200" height="150" />
 </div>
 
-- **[Drebbel Business Marketplace](https://marketplace.drebbel.eu/)**  
-  <img src="https://i.postimg.cc/htM4Cv65/Screenshot-2024-06-03-at-18-57-17.png" alt="Drebbel Business Marketplace" />
-  An advanced platform offering real-time customer data with detailed charts and statistics. It enables B2B product listings and comprehensive company profiles for enhanced visibility and engagement.
+<div align="center">
 
-- **[SeaShore Online Banking App](https://banking-app-1-git-main-akkacjacodes-projects.vercel.app/sign-in)**  
-  <img src="[https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/SeaShore.png](https://i.postimg.cc/XvgcJfZY/Screenshot-2024-05-31-at-19-29-48.png)" alt="SeaShore Online Banking App" />
-  Enhances spending monitoring, allows transfers, and utilizes top-tier security with Plaid and Sentry.
-
+  
+  <h3>[Drebbel Business Marketplace](https://marketplace.drebbel.eu/)</h3>
+  <img src="https://i.postimg.cc/htM4Cv65/Screenshot-2024-06-03-at-18-57-17.png" alt="Drebbel Business Marketplace" width="300" height="200" />
+  <p>An advanced platform offering real-time customer data with detailed charts and statistics. It enables B2B product listings and comprehensive company profiles for enhanced visibility and engagement.</p>
 
 
 
-<h2 align="center">🌱 Currently Learning</h2>
-- **[SnippetHive code sharing platform](https://snippethive.com/)**  
-  <img src="https://i.postimg.cc/XY6yMr2N/Screenshot-2024-07-30-at-18-54-46.png" alt="Snippethive" />
- Building a startup and social media presence. 0 to 120+ followers in 3 weeks
+  <h3>[SeaShore Online Banking App](https://banking-app-1-git-main-akkacjacodes-projects.vercel.app/sign-in)</h3>
+  <img src="https://i.postimg.cc/XvgcJfZY/Screenshot-2024-05-31-at-19-29-48.png" alt="SeaShore Online Banking App" width="300" height="200" />
+  <p>Enhances spending monitoring, allows transfers, and utilizes top-tier security with Plaid and Sentry.</p>
+
+
+
+  <h3>[Deluxe Camper](https://deluxecamper.pl/)</h3>
+  <img src="https://i.postimg.cc/ZYsJ8MBz/Screenshot-2024-06-03-at-19-55-20.png" alt="Deluxe Camper" width="300" height="200" />
+  <p>A business website with a fully automated booking system and well-designed pages showcasing various campers.</p>
+
+  
+
+## 🌱 Currently Learning
+<div align="center">
+  <h3>[SnippetHive code sharing platform](https://snippethive.com/)</h3>
+  <img src="https://i.postimg.cc/XY6yMr2N/Screenshot-2024-07-30-at-18-54-46.png" alt="Snippethive" width="300" height="200" />
+  <p>Building a startup and social media presence. 0 to 120+ followers in 3 weeks.</p>
+</div>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 My ultimate goal is to become a successful tech entrepreneur, creating innovative solutions that make a positive impact on people's lives.
