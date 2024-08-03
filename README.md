@@ -37,7 +37,7 @@ Languages: JavaScript, Python
 
 <div align="center">
   <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/public/dreebbel.png" alt="Project 1" />
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/SeaShore.png" alt="Project 2" />
+  <img src="https://i.postimg.cc/XvgcJfZY/Screenshot-2024-05-31-at-19-29-48.png" alt="Project 2" />
   <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel-dashboard.png" alt="Project 3" />
   <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Deluxe-camper.png" alt="Project 4" />
   <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Project-10.png" alt="Project 5" />
