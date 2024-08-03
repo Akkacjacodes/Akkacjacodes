@@ -1,30 +1,25 @@
-Hello, I'm Adriana Sobota 👋
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Adriana+Sobota!+Welcome+to+my+Profile!" alt="Typing SVG" />
 </div>
 
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🚀 About Me
+
 <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=akkacjacodes&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub WidgetBox" />
 </div>
 I'm a passionate developer with a love for coding and problem-solving. My goal is to learn as much as possible and eventually use my skills to solve real-world problems as an entrepreneur.
 
 <h2 align="center">🚀 About Me</h2>
-💻 Tech Stack
+
 <p align="center">
   I'm a passionate developer with a love for coding and problem-solving. My goal is to learn as much as possible and eventually use my skills to solve real-world problems as an entrepreneur.
 </p>
 Web Development: MERN Stack, Next.js
 Backend: Express, FastAPI (Python)
-Languages: JavaScript, Python, Rust, C#
-Game Development: Unity
-Computer Vision: Python
-3D Modeling: Blender
-IoT: Arduino, ESP32
+Languages: JavaScript, Python
+
 <h2 align="center">💻 Tech Stack</h2>
 🏆 Projects
 <p align="center">
@@ -34,35 +29,48 @@ IoT: Arduino, ESP32
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+
 </p>
-Chip-8 Emulator in Rust
-Beat Sync Video Reel Maker
-MERN Stack Blog App
-Chrome Extension for Skipping YouTube In-Video Promotions (WIP)
+
 <h2 align="center">🏆 Projects</h2>
-🌱 Currently Learning
-<p align="center">
-  🎮 Chip-8 Emulator in Rust<br>
-  🎵 Beat Sync Video Reel Maker<br>
-  📝 MERN Stack Blog App<br>
-  🎥 Chrome Extension for Skipping YouTube In-Video Promotions (WIP)
-</p>
-I'm always expanding my knowledge. Currently, I'm diving deeper into:
+
+## 🏆 Projects
+
+<div align="center">
+  <img src="https://via.placeholder.com/100x100" alt="Project 1" />
+  <img src="https://via.placeholder.com/100x100" alt="Project 2" />
+  <img src="https://via.placeholder.com/100x100" alt="Project 3" />
+  <img src="https://via.placeholder.com/100x100" alt="Project 4" />
+  <img src="https://via.placeholder.com/100x100" alt="Project 5" />
+</div>
+
+- **[Drebbel Business Marketplace](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/drebbel-business-marketplace)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel_business_marketplace.png" alt="Drebbel Business Marketplace" />
+  An advanced platform offering real-time customer data, B2B product listings, and comprehensive company profiles.
+
+- **[SeaShore Online Banking App](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/seashore-online-banking-app)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/seashore_online_banking_app.png" alt="SeaShore Online Banking App" />
+  Enhances spending monitoring, allows transfers, and utilizes top-tier security with Plaid and Sentry.
+
+- **[Drebbel Sales Dashboard](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/drebbel-sales-dashboard)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel_sales_dashboard.png" alt="Drebbel Sales Dashboard" />
+  Automates business reporting, saving 25% of employee time with real-time statistics and charts.
+
+- **[Deluxe Camper](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/deluxe-camper)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/deluxe_camper.png" alt="Deluxe Camper" />
+  A business website with a fully automated booking system and well-designed pages showcasing various campers.
+
+- **[Drebbel Website](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/drebbel-website)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel_website.png" alt="Drebbel Website" />
+  Features a modern design with an excellent user interface, interactive pages, and a Stripe-integrated pricing page.
+
 
 <h2 align="center">🌱 Currently Learning</h2>
-Rust programming
-Advanced game development techniques
-Entrepreneurship and product development
-<p align="center">
-  🦀 Advanced Rust programming<br>
-  🕹️ Game development techniques<br>
-  💼 Entrepreneurship and product development
-</p>
-💡 Goals
+
+
+Building a startup and social media presence. 0 to 120+ followers in 3 weeks
+
+
 <h2 align="center">📊 GitHub Stats</h2>
 My ultimate goal is to become a successful tech entrepreneur, creating innovative solutions that make a positive impact on people's lives.
 
