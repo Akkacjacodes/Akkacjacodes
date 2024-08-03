@@ -33,36 +33,36 @@ Languages: JavaScript, Python
 </p>
 
 <h2 align="center">🏆 Projects</h2>
-
 ## 🏆 Projects
 
 <div align="center">
-  <img src="https://via.placeholder.com/100x100" alt="Project 1" />
-  <img src="https://via.placeholder.com/100x100" alt="Project 2" />
-  <img src="https://via.placeholder.com/100x100" alt="Project 3" />
-  <img src="https://via.placeholder.com/100x100" alt="Project 4" />
-  <img src="https://via.placeholder.com/100x100" alt="Project 5" />
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/public/dreebbel.png" alt="Project 1" />
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/SeaShore.png" alt="Project 2" />
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel-dashboard.png" alt="Project 3" />
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Deluxe-camper.png" alt="Project 4" />
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Project-10.png" alt="Project 5" />
 </div>
 
-- **[Drebbel Business Marketplace](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/drebbel-business-marketplace)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel_business_marketplace.png" alt="Drebbel Business Marketplace" />
-  An advanced platform offering real-time customer data, B2B product listings, and comprehensive company profiles.
+- **[Drebbel Business Marketplace](https://marketplace.drebbel.eu/)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/dreebbel.png" alt="Drebbel Business Marketplace" />
+  An advanced platform offering real-time customer data with detailed charts and statistics. It enables B2B product listings and comprehensive company profiles for enhanced visibility and engagement.
 
-- **[SeaShore Online Banking App](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/seashore-online-banking-app)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/seashore_online_banking_app.png" alt="SeaShore Online Banking App" />
+- **[SeaShore Online Banking App](https://banking-app-1-git-main-akkacjacodes-projects.vercel.app/sign-in)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/SeaShore.png" alt="SeaShore Online Banking App" />
   Enhances spending monitoring, allows transfers, and utilizes top-tier security with Plaid and Sentry.
 
-- **[Drebbel Sales Dashboard](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/drebbel-sales-dashboard)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel_sales_dashboard.png" alt="Drebbel Sales Dashboard" />
-  Automates business reporting, saving 25% of employee time with real-time statistics and charts.
+- **[Drebbel Sales Dashboard](https://dashboard.drebbel.eu/)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel-dashboard.png" alt="Drebbel Sales Dashboard" />
+  Automates business reporting, saving 25% of employee time. Directly connected to the company's proprietary drive, it automatically generates client reports, real-time statistics, and intuitive charts.
 
-- **[Deluxe Camper](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/deluxe-camper)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/deluxe_camper.png" alt="Deluxe Camper" />
-  A business website with a fully automated booking system and well-designed pages showcasing various campers.
+- **[Deluxe Camper](https://deluxecamper.pl/)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Deluxe-camper.png" alt="Deluxe Camper" />
+  A business website with a fully automated booking system, well-designed pages showcasing various campers, a comprehensive contact form, and a detailed FAQ section.
 
-- **[Drebbel Website](https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/project/drebbel-website)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel_website.png" alt="Drebbel Website" />
-  Features a modern design with an excellent user interface, interactive pages, and a Stripe-integrated pricing page.
+- **[Drebbel Website](https://deluxecamper.pl/)**  
+  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Project-10.png" alt="Drebbel Website" />
+  Features a modern design with an excellent user interface, interactive pages, a pricing page integrated with Stripe, and a fully functional contact form.
+
 
 
 <h2 align="center">🌱 Currently Learning</h2>
