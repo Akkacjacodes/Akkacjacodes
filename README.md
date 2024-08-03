@@ -21,7 +21,7 @@ Backend: Express, FastAPI (Python)
 Languages: JavaScript, Python
 
 <h2 align="center">💻 Tech Stack</h2>
-🏆 Projects
+
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
@@ -33,43 +33,31 @@ Languages: JavaScript, Python
 </p>
 
 <h2 align="center">🏆 Projects</h2>
-## 🏆 Projects
+
 
 <div align="center">
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/public/dreebbel.png" alt="Project 1" />
+  <img src="https://i.postimg.cc/htM4Cv65/Screenshot-2024-06-03-at-18-57-17.png" alt="Project 1" />
   <img src="https://i.postimg.cc/XvgcJfZY/Screenshot-2024-05-31-at-19-29-48.png" alt="Project 2" />
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel-dashboard.png" alt="Project 3" />
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Deluxe-camper.png" alt="Project 4" />
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Project-10.png" alt="Project 5" />
+  <img src="https://i.postimg.cc/T3nNGWft/Screenshot-2024-07-27-at-18-44-32.png" alt="Project 3" />
+  <img src="https://i.postimg.cc/C5Dr1ZbM/Screenshot-2024-05-31-at-19-48-26.png" alt="Project 4" />
+  <img src="https://i.postimg.cc/C5Dr1ZbM/Screenshot-2024-05-31-at-19-48-26.png" alt="Project 5" />
 </div>
 
 - **[Drebbel Business Marketplace](https://marketplace.drebbel.eu/)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/dreebbel.png" alt="Drebbel Business Marketplace" />
+  <img src="https://i.postimg.cc/htM4Cv65/Screenshot-2024-06-03-at-18-57-17.png" alt="Drebbel Business Marketplace" />
   An advanced platform offering real-time customer data with detailed charts and statistics. It enables B2B product listings and comprehensive company profiles for enhanced visibility and engagement.
 
 - **[SeaShore Online Banking App](https://banking-app-1-git-main-akkacjacodes-projects.vercel.app/sign-in)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/SeaShore.png" alt="SeaShore Online Banking App" />
+  <img src="[https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/SeaShore.png](https://i.postimg.cc/XvgcJfZY/Screenshot-2024-05-31-at-19-29-48.png)" alt="SeaShore Online Banking App" />
   Enhances spending monitoring, allows transfers, and utilizes top-tier security with Plaid and Sentry.
 
-- **[Drebbel Sales Dashboard](https://dashboard.drebbel.eu/)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/drebbel-dashboard.png" alt="Drebbel Sales Dashboard" />
-  Automates business reporting, saving 25% of employee time. Directly connected to the company's proprietary drive, it automatically generates client reports, real-time statistics, and intuitive charts.
-
-- **[Deluxe Camper](https://deluxecamper.pl/)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Deluxe-camper.png" alt="Deluxe Camper" />
-  A business website with a fully automated booking system, well-designed pages showcasing various campers, a comprehensive contact form, and a detailed FAQ section.
-
-- **[Drebbel Website](https://deluxecamper.pl/)**  
-  <img src="https://adriana-professional-web-portfolio-akkacjacodes-projects.vercel.app/assets/Project-10.png" alt="Drebbel Website" />
-  Features a modern design with an excellent user interface, interactive pages, a pricing page integrated with Stripe, and a fully functional contact form.
 
 
 
 <h2 align="center">🌱 Currently Learning</h2>
-
-
-Building a startup and social media presence. 0 to 120+ followers in 3 weeks
-
+- **[SnippetHive code sharing platform](https://snippethive.com/)**  
+  <img src="https://i.postimg.cc/XY6yMr2N/Screenshot-2024-07-30-at-18-54-46.png" alt="Snippethive" />
+ Building a startup and social media presence. 0 to 120+ followers in 3 weeks
 
 <h2 align="center">📊 GitHub Stats</h2>
 My ultimate goal is to become a successful tech entrepreneur, creating innovative solutions that make a positive impact on people's lives.
@@ -83,13 +71,13 @@ My ultimate goal is to become a successful tech entrepreneur, creating innovativ
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akkacjacodes&theme=radical" alt="GitHub Streak" />
 </div>
-🔥 Streak Stats
+
 <h2 align="center">📈 Contribution Graph</h2>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akkacjacodes&theme=radical" alt="Adriana's GitHub Contribution Graph" />
 </div>
-📈 Contribution Graph
+
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
@@ -103,7 +91,7 @@ My ultimate goal is to become a successful tech entrepreneur, creating innovativ
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=akkacjacodes&style=flat-square&color=blue" alt="Profile views" />
 </div>
-📫 Let's Connect
+
 Feel free to reach out to me on X or LinkedIn!
 
 ⭐️ From akkacjacodes
